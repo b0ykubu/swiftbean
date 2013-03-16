@@ -1,0 +1,22 @@
+CyanogenMod 10.1 for ARMv6 devices
+==================================
+
+Visit http://github.com/androidarmv6 for full CyanogenMod changelogs and git access.
+
+Visit http://changelog.bbqdroid.org/#/cm10.1/ for CyanogenMod changelogs
+
+Visit http://review.cyanogenmod.com for the CM Gerrit instance.
+
+
+DEVICE CHANGELOG
+----------------
+
+### Build 2 (25 Dec 2012)
+* Fix audio (mic/speaker)
+* Fix wi-fi
+* Fix color banding
+* Reduce Trebuchet size
+* Stock camera app takes pictures, but no preview
+
+### Build 1 (22 Dec 2012)
+* Boot version by hephappy
