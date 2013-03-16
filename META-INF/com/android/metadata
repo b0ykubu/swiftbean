@@ -1,0 +1,3 @@
+post-build=lge/thunderg/thunderg:2.3.3/GRI40/LG-P500-V20g.19C11F164C:user/release-keys
+post-timestamp=1362999529
+pre-device=p500
